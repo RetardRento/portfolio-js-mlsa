@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://RetardRento.github.io/portfolio-js-mlsa/",
+  "homepage": "https://RetardRento.github.io/portfolio-js-mlsa/src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://RetardRento.github.io/portfolio-js-mlsa/'",
+    "build-gh": "parcel build --public-url 'https://RetardRento.github.io/portfolio-js-mlsa/src/index.html'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
