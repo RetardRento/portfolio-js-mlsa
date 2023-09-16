@@ -28774,7 +28774,7 @@ const imageAltText = "desktop with books and laptop";
         url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
     },
     {
-        title: "GitHub Codespaces and github.dev",
+        title: "GitHub Codespaces and GITHUB dev",
         description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
         url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
     }, 
